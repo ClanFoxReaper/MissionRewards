@@ -1,0 +1,7 @@
+C:\Users\Constantin\Documents\Missionrewards\Dist\meta.json
+C:\Users\Constantin\Documents\Missionrewards\Dist\Missionrewards.dll
+C:\Users\Constantin\Documents\Missionrewards\Dist\Missionrewards.pdb
+C:\Users\Constantin\Documents\Missionrewards\Missionrewards\obj\Debug\Missionrewards.csproj.AssemblyReference.cache
+C:\Users\Constantin\Documents\Missionrewards\Missionrewards\obj\Debug\Missionrewards.csproj.CoreCompileInputs.cache
+C:\Users\Constantin\Documents\Missionrewards\Missionrewards\obj\Debug\Missionrewards.dll
+C:\Users\Constantin\Documents\Missionrewards\Missionrewards\obj\Debug\Missionrewards.pdb

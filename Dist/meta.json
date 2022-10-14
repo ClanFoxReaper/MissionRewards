@@ -1,0 +1,24 @@
+{
+  "ID": "com.example.missionrewards",
+  "AssemblyName": "Missionrewards.dll",
+  "Author": [
+    {
+      "Key": "English",
+      "Value": "ClanFoxReaper"
+    }
+  ],
+  "Version": "1.0",
+  "Name": [
+    {
+      "Key": "English",
+      "Value": "Mission rewards"
+    }
+  ],
+  "Description": [
+    {
+      "Key": "English",
+      "Value": "Resource reward after complete mission."
+    }
+  ],
+  "Dependencies": []
+}
